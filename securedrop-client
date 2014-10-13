@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import sys, os
+import securedrop_client
+
+securedrop_client.main()

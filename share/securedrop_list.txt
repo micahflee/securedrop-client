@@ -1,0 +1,17 @@
+Organization	Landing Page	Tor Hidden Service Address
+BalkanLeaks	https://www.balkanleaks.eu	dtsxnd3ykn32ywv6.onion
+ExposeFacts	https://exposefacts.org	znig4bc5rlwyj4mz.onion
+Forbes	https://safesource.forbes.com	bczjr6ciiblco5ti.onion
+Greenpeace New Zealand	https://www.safesource.org.nz	vtjkwwcq5osuo6uq.onion
+The Guardian	https://securedrop.theguardian.com	33y6fjyhs3phzfjj.onion
+The Intercept	https://firstlook.org/theintercept/securedrop	y6xjgkgwj47us5ca.onion
+The New Yorker	https://projects.newyorker.com/strongbox	strngbxhwyuu37a3.onion
+NRKbeta	https://nrkbeta.no/tips	swdi5ymnwmrqhycl.onion
+Project On Gov't Oversight (POGO)	https://securedrop.pogo.org	dqeasamlf3jld2kz.onion
+ProPublica	https://securedrop.propublica.org	pubdrop4dw6rk3aq.onion
+Radio24syv	https://securedrop.radio24syv.dk	hkjpnjbvhrxjvikd.onion
+San Francisco Bay Guardian	https://bayleaks.com	l7rt5kabupal7eo7.onion
+Barton Gellman	https://tcfmailvault.info	v6gdwmm7ed4oifvd.onion
+The Washington Post	https://ssl.washingtonpost.com/securedrop	vbmwh445kf3fs2v4.onion
+Wired's Kevin Poulsen	https://pressfreedomfoundation.org/about/tech/kevin-poulsen	poulsensqiv6ocq4.onion
+# Last updated Sat Sep 20 03:54:00 CEST 2014
